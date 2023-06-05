@@ -1,0 +1,9 @@
+<style>
+input[type="radio"]:checked+span {
+        background-color: #c9865f;
+        border: 1px solid gray;
+        padding: 10px 15px;
+      }
+input[type="radio"]{
+        display: none;
+</style>
